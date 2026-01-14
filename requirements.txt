@@ -1,6 +1,7 @@
-fer
-tensorflow
-opencv-python-headless
-mtcnn
-pillow
-numpy
+streamlit
+opencv-python-headless==4.8.1.78
+fer==22.5.1
+tensorflow==2.15.0
+mtcnn==0.1.1
+pillow==10.2.0
+numpy==1.26.4
